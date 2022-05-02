@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">SandBox_1</string>
+    <!-- description -->
+    <string name="app_desc">SandBox_1 for comunity plugin development</string>
+
+
+
+
+</resources>
